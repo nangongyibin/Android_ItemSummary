@@ -1,13 +1,13 @@
 package com.ngyb.itemsummary;
 
 import android.content.Context;
+import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import androidx.annotation.Nullable;
 
 /**
  * 作者：南宫燚滨
